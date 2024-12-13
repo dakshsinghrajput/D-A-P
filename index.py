@@ -1,4 +1,4 @@
-```python
+
 print("hello world of D-A-P")
 import random
 #here you can se code of some unique game which are two player
