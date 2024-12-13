@@ -1,7 +1,7 @@
 print("hello world of D-A-P")
 import random
 #here you can se code of some unique game which are two player
-print("You can play the multiplayer games available here")
+print("You can play the two player games available here")
 print("Number Game")
 while True:
     a=random.randrange(1,9)
